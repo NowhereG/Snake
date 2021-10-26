@@ -18,7 +18,7 @@ public class MainUIController : MonoBehaviour
     private bool isPause = false;
     private void Awake()
     {
-        //自由模式
+        //自由模式。
         if (PlayerPrefs.GetInt("border", 1) == 0)
         {
             //foreach会遍历bgImage下的所有子物体的Transform
