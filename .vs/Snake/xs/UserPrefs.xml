@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{27E3B7BB-7210-4DB8-2CDE-8C5F9221D3B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FoodMaker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FoodMaker.cs" Line="10" Column="28" />
+      <File FileName="Assets/Scripts/HeadManager.cs" Line="11" Column="31" />
+      <File FileName="Assets/Scripts/MainUIController.cs" Line="48" Column="20" />
+      <File FileName="Assets/Scripts/StartUIController.cs" Line="92" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FoodMaker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="33da4be0-958d-498f-a35f-3155bea0ec43" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

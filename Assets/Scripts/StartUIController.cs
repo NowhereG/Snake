@@ -63,7 +63,7 @@ public class StartUIController : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
-    //当toggle值发生改变是调用
+    //当toggle值发生改变时调用
     public void Blue(bool isOn)
     {
         if (isOn)

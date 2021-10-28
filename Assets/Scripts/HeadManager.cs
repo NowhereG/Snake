@@ -154,6 +154,7 @@ public class HeadManager : MonoBehaviour
         //设置蛇身的父物体
         body.transform.SetParent(canves,false);
         //将蛇身的位置信息保存到bodyList中，用来操作蛇身的位置
+        //由于每一帧都会刷新蛇身位置，所以不需要给新的蛇身位置赋值
         bodyList.Add(body.transform);
         //设置蛇身的sprite
         body.GetComponent<Image>().sprite = bodySprites[index];
